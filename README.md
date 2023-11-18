@@ -6,6 +6,6 @@ Simple local environment for simulating a remote server interacting with user ac
 
 
  > DISCLAIMER
-> Every input has NO santization so local variables may be able to be extracted, i am going to add this in the future
+> All inputs have NO input santization so local variables may be able to be extracted, i am going to add this in the future
 
 > This is a single developer project and issues may occur, i am not responsible for damage to your computer if used incorrectly
