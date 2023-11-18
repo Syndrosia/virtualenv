@@ -1,6 +1,6 @@
 Simple local environment for simulating a remote server interacting with user accounts
 
- 1) Built in management system for resetting passwords, creating and much more
+ 1) Built in management system for resetting passwords, creating new users and much more
  2) Dynamic directory updater to prevent files not being able to be found
  3) Open source for users who run into issues to be able to debug
 
